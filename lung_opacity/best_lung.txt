@@ -1,0 +1,14 @@
+Epoch [1/5], Loss: 0.8868
+Epoch [2/5], Loss: 0.6981
+Epoch [3/5], Loss: 0.6959
+Epoch [4/5], Loss: 0.6818
+Epoch [5/5], Loss: 0.6779
+Positive labels in validation set: 11.0 / 20
+
+Evaluation Metrics on Validation Set:
+AUC-ROC:  0.5556
+F1 Score: 0.7097
+Precision: 0.5500
+Recall:    1.0000
+
+----------------------lung opacity complete----------------------
