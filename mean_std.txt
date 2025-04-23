@@ -1,0 +1,2 @@
+mean age: 60.43
+std age:  17.80
