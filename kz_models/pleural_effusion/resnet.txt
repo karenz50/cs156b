@@ -1,0 +1,29 @@
+Epoch [1/5], Loss: 0.7335
+Epoch [2/5], Loss: 0.6086
+Epoch [3/5], Loss: 0.5775
+Epoch [4/5], Loss: 0.5408
+Epoch [5/5], Loss: 0.6402
+
+Model saved to: /groups/CS156b/2025/ChexMix/kz_models/pleural_effusion/resnet_pe.pt
+Positive labels in validation set: 9.0 / 20
+
+Evaluation Metrics on Validation Set:
+AUC-ROC:  0.4343
+F1 Score: 0.0000
+Precision: 0.0000
+Recall:    0.0000
+
+Additional Evaluation Metrics:
+Accuracy:           0.5000
+Balanced Accuracy:  0.4545
+Specificity (TNR):  0.9091
+Matthews Corr Coef: -0.2075
+Log Loss:           1.5698
+
+Confusion Matrix:
+[[TN FP]
+ [FN TP]]
+[[10  1]
+ [ 9  0]]
+
+----------------------plural effusion complete----------------------
